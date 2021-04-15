@@ -9,11 +9,11 @@
 
  Screenshots:
 
- <img src="math-killer-start.png" alt="the start of the math killer game" width="700"/>
- <img src="math-killer-wrong.png" alt="getting a math problem wrong" width="700"/>
+ <img src="math-killer-start.png" alt="the start of the math killer game" width="1400"/>
+ <img src="math-killer-wrong.png" alt="getting a math problem wrong" width="1400"/>
 
- <img src="math-killer-dead.png" alt="the start of the math killer game" width="700"/>
- <img src="math-killer-end.png" alt="failing in the math killer game" width="700"/>
+ <img src="math-killer-dead.png" alt="the start of the math killer game" width="1400"/>
+ <img src="math-killer-end.png" alt="failing in the math killer game" width="1400"/>
 
  <img src="math-killer-problem.png" alt="getting a problem right in math-killer" width="1400"/>
 
