@@ -3,7 +3,9 @@
 
  This math game features multiplication and gets progressively harder.
 
- Please note that there is no end to this game and it keeps on getting progressively harder.
+ At some point, it will become impossible to do the math.
+
+ The game features a teacher that is cruel and taunts you if you get anything wrong.
 
  This game requires python 3.6 and above.
 
@@ -11,7 +13,7 @@
  Installation
  ---
  Method One:
- Download the zip file from the top of the page nad then unpack it in your home directory.
+ Download the zip file from the top of the page and then unpack it in your home directory.
 
  Method Two:
  Run these commands in the terminal.
@@ -37,4 +39,3 @@
  <img src="math-killer-end.png" alt="failing in the math killer game" width="1400"/>
 
  <img src="math-killer-problem.png" alt="getting a problem right in math-killer" width="1400"/>
-
