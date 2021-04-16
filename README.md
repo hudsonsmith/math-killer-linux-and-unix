@@ -9,6 +9,8 @@
 
  This game requires python 3.6 and above.
 
+ Please note that there is no sound in this game.
+
  ---
  Installation
  ---
