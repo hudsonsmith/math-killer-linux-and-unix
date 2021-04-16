@@ -24,6 +24,7 @@
  
  Then run it with python3.
  ```bash
+ cd math-killer-linux-and-unix/
  python3 main.py
  ```
 
